@@ -17,3 +17,4 @@ You can add your favourite OSS startup in list by contributing to it.
 - [surrealdb](https://github.com/surrealdb/surrealdb)
 - [planetscale](https://github.com/orgs/planetscale/repositories)
 - [hashicorp](https://github.com/hashicorp)
+- [anarchy](https://github.com/anarchy-ai/LLM-VM)
